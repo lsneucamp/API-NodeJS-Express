@@ -13,6 +13,7 @@ exports.up = function (db, next) {
         {"_id": ObjectId("54f6612bb0e6af1800b5d00D"), "name": "D"},
         {"_id": ObjectId("54f6612bb0e6af1800b5d00D"), "name": "D"},
         {"_id": ObjectId("54f6612bb0e6af1800b5d00D"), "name": "D"},
+        {"_id": ObjectId("54f6612bb0e6af1800b5d00D"), "name": "D"},
         {"_id": ObjectId("54f6612bb0e6af1800b5d00E"), "name": "E"}
     ];
 
