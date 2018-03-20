@@ -1,3 +1,11 @@
+<a name="0.1.5"></a>
+##[0.1.5](https://github.com/lsneucamp/API-NodeJS-Express/branches/compare/0.1.4..0.1.5) (2018-03-20)
+
+
+### Bug Fixes
+
+* **semantic:** test semantic release ([0e8f924](https://github.com/lsneucamp/API-NodeJS-Express/commit/0e8f924))
+
 <a name="0.1.4"></a>
 ## [0.1.4](https://github.com/teste/lsneucamp/API-NodeJS-Express/compare/0.1.3...0.1.4) (2018-03-20)
 
